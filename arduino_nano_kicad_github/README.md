@@ -17,5 +17,3 @@ Proyecto de diseño electrónico en KiCad, con esquema y circuito impreso de una
 > **Estado:** Proyecto de diseño. No se han verificado aquí la compatibilidad total con Arduino Nano, las reglas eléctricas (ERC), las reglas de diseño (DRC) ni el funcionamiento de una placa fabricada.
 
 ## Publicación
-
-Puedes añadir fotos, renders 3D, archivos Gerber y una licencia cuando estén listos.
